@@ -15,3 +15,7 @@
   * User-Defined callable types
   * Keyword params
   * Positional-onlyParams
+* Chapter 8. Type Hints in Functions
+  * Duck typing
+  * Nominal Typing
+  * Types Usable in Annotations
