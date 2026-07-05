@@ -19,3 +19,9 @@
   * Duck typing
   * Nominal Typing
   * Types Usable in Annotations
+* Chapter 9.Decorators and Closures
+  * Decorators execution
+  * Variables scope rules
+  * The `nonlocal` declaration
+  * Parameterized decorators
+  * Class Based Decorator
