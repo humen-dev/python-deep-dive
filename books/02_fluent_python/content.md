@@ -25,3 +25,8 @@
   * The `nonlocal` declaration
   * Parameterized decorators
   * Class Based Decorator
+* Chapter 10. Design Patterns with First-Class Functions
+  * Classic Strategy
+  * Function-Oriented Strategy
+  * Decorator-Enhanced Strategy
+  * The Command Pattern
